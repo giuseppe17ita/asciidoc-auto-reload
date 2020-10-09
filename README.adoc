@@ -23,7 +23,7 @@ TIP: inserirlo nella cartella di esecuzione dello script o cambiare nel file `as
 .asciidocreload.py
 [source,python,numbered]
 ----
-\include::asciidocreload.py[lines=41]
+/include::asciidocreload.py[lines=41]
 ----
 
 ok!
